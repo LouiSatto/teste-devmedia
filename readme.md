@@ -7,5 +7,6 @@ Aprendendo a usar o git
 - [ ] por que sera que nao pulava a linha
 - [ ] formatacao errada
 - [ ] arrumando a formatacao
+- [ ] mais uma alteracao pelo site
 
 * alterando pelo github
