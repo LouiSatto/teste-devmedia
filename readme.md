@@ -6,5 +6,6 @@ Aprendendo a usar o git
 - [ ] voce deseja verificar alteracoes feitas no seu projeto
 - [ ] por que sera que nao pulava a linha
 -[] formatacao errada
+- [] mais uma alteracao pelo site
 
 * alterando pelo github
